@@ -1,0 +1,22 @@
+title: Jinseok Lee - Research Portfolio
+description: Research portfolio showcasing academic work, publications, and projects
+url: "https://JinseokLee9706.github.io"
+baseurl: ""
+
+# Jekyll settings
+theme: null
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Collections
+collections_dir: collections
+
+# Build settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - .gitignore
+  - README.md
+  - LICENSE
